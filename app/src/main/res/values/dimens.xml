@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="LeftMargin">12dp</dimen>
+    <dimen name="RightMargin">12dp</dimen>
+
+    <dimen name="Slogan1_MarginBottom">6dp</dimen>
+    <dimen name="Slogan1_textSize">25sp</dimen>
+
+    <dimen name="Website_TopBottomMargin">6dp</dimen>
+    <dimen name="Website_textSize">22sp</dimen>
+
+    <dimen name="iconMargin">8dp</dimen>
+</resources>
